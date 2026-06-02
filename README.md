@@ -1,102 +1,141 @@
-📊 
-Exploratory Data Analysis (EDA) Project
+### TASK-2-UDOFA-JULIET
+**Decodelab Internship** 
 
-📌 Project Overview
+
+### 📊 Exploratory Data Analysis (EDA) Project
+
+
+
+### 📌 Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a sales dataset to uncover patterns, trends, outliers, and key business insights. The analysis was conducted as part of my Data Analytics learning journey through DecodeLab.
 
-Objectives
 
-Clean and prepare the dataset for analysis
 
-Identify missing values and outliers
+### Objectives
 
-Generate descriptive statistics
+-Clean and prepare the dataset for analysis
 
-Explore relationships between variables
+-Identify missing values and outliers
 
-Extract actionable business insights
+-Generate descriptive statistics
 
-🛠 Tools Used
-*Microsoft Excel
-*Power Query
+-Explore relationships between variables
 
-🧹 Data Cleaning Process
-*Removed duplicate records
-*Checked for missing values
-*Standardized date formats
-*Formatted currency fields
-*Identified and analyzed outliers using the IQR method
+-Extract actionable business insights
 
-📊 Analysis Performed
 
-Descriptive Statistics (Mean, Median, Count)
 
-Outlier Detection (IQR method)
+### 🛠 Tools Used
+-Microsoft Excel
 
-Sales Trend Analysis
+-Power Query
 
-Product Performance Analysis
-Customer Purchase Patterns
 
-🔍 Key Findings
 
-The dataset contains 1,200 rows and 14 columns, covering the period 2023–2025.
+### 🧹 Data Cleaning Process
+-Removed duplicate records
 
-Median Total Price: $823.62
+-Checked for missing values
 
-Mean Total Price: $1,053.97
+-Standardized date formats
 
-Outlier Analysis (IQR Method):
-*Lower Limit: -$1,341.41
-*Upper Limit: $3,330.41
+-Formatted currency fields
 
-*8 outliers were identified (above the upper limit)
+-Identified and analyzed outliers using the IQR method
 
-📊 Product Analysis:
 
-Products include: Chairs, Printer, Laptop, Desk, Tablet, Monitor, Phone
+### 📊 Analysis Performed
+-Descriptive Statistics (Mean, Median, Count)
 
-Total quantity sold: 3,535 products
+-Outlier Detection (IQR method)
 
-Total revenue: $1,264,761.96
+-Sales Trend Analysis
 
-Top Product:
+-Product Performance Analysis
 
-🪑 Chairs had the highest quantity sold (562 units) and highest revenue ($195,620.11)
+-Customer Purchase Patterns
 
-📉 Trend Insight:
 
-2023 → 2024: -2.87% decline (slight drop, relatively stable demand)
+### 🔍 Key Findings
 
-2024 → 2025: -65.82% decline (major drop in demand)
+-The dataset contains 1,200 rows and 14 columns, covering the period 2023–2025.
 
-Possible causes: customer loss, supply issues, competition, or economic factors
+-Median Total Price: **$823.62**
 
-Overall: clear downward trend 📉 in product demand
+-Mean Total Price: **$1,053.97**
 
-Referral Sources:
-Social Media contributed 82% of referrals
+## Outlier Analysis (IQR Method):
+-Lower Limit: **$-1,341.41**
 
-Instagram alone contributed 21.58%
+-Upper Limit: **$3,330.41**
 
-Customer Behavior:
-41.41% of orders were either cancelled or returned
+*8 outliers were identified (above the upper limit)*
 
-74.25% of orders used a coupon code
 
-🧠 Skills Demonstrated
-*Data Cleaning 
-*Data Transformation
-*Statistical Analysis
-*Business Insight Generation
+### 📊 Product Analysis:
+**Products include** 
+*Chairs, Printer, Laptop, Desk, Tablet, Monitor, Phone*
 
-🚀 Future Improvements
-Build an interactive Power BI dashboard 📊
+-Total quantity sold: **3,535 products**
 
-Perform predictive analysis
+-Total revenue: **$1,264,761.96**
 
-Automate data cleaning workflows
+**Top Product**
+-🪑 Chairs had the highest quantity sold **(562 units)** and highest revenue **($195,620.11)**
 
-👩‍💻 Author
-Juliet Udofa
-Aspiring Data Analyst passionate about transforming data into meaningful insights.
+
+### 📉 Trend Insight:
+
+-2023 → 2024: -*2.87%* decline (slight drop, relatively stable demand)
+
+-2024 → 2025: -*65.82%* decline (major drop in demand)
+
+**Possible causes**
+
+-Customer loss
+
+-Supply issues
+
+-Competition
+
+-Economic factors
+
+**Overall**
+There is an indicated *downward trend* 📉 in product demand
+
+
+### Referral Sources
+-Social Media contributed **82%* of referrals
+
+-Instagram alone contributed *21.58%*
+
+
+### Customer Behavior
+-*41.41%* of orders were either cancelled or returned
+
+-*74.25%* of orders used a coupon code
+
+
+### 🧠 Skills Demonstrated
+-Data Cleaning 
+
+-Data Transformation
+
+-Statistical Analysis
+
+-Business Insight Generation
+
+
+### 🚀 Future Improvements
+-Build an interactive Power BI dashboard 📊
+
+-Perform predictive analysis
+
+-Automate data cleaning workflows
+
+
+
+### 👩‍💻 Author
+**Juliet Udofa**
+
+*Aspiring Data Analyst passionate about transforming data into meaningful insights*
