@@ -11,7 +11,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a sales da
 
 
 
-### Objectives
+### 🎯 Objectives
 
 -Clean and prepare the dataset for analysis
 
